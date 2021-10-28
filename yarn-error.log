@@ -1,0 +1,36 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files (x86)\Yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files (x86)\Java\jre1.8.0_261\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Users\Feli X Calo\AppData\Roaming\npm\node_modules;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Yarn\bin\;C:\Program Files\Java\jdk1.6.0_45\bin;C:\ProgramData\chocolatey\lib\maven\apache-maven-3.6.3\bin;C:\Program Files\kubectl;C:\Program Files\helm\windows-amd64;C:\Program Files\PuTTY\;C:\Program Files\OpenSSL-Win64\bin\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\ComposerSetup\bin;C:\wamp64\bin\php\php7.4.9;C:\Program Files\Git\cmd;C:\Program Files (x86)\Java\jdk1.8.0_261\bin;C:\Program Files (x86)\Java\jre1.8.0_261\bin;C:\Users\Feli X Calo\AppData\Local\Microsoft\WindowsApps;C:\Users\Feli X Calo\AppData\Roaming\npm;C:\Users\Feli X Calo\AppData\Roaming\npm\node_modules;C:\Users\Feli X Calo\AppData\Local\Yarn\bin;C:\Users\Feli X Calo\AppData\Roaming\Composer\vendor\bin;C:\Users\Feli X Calo\AppData\Local\Programs\Microsoft VS Code\bin
+
+Yarn version: 
+  1.22.4
+
+Node version: 
+  12.18.2
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Program Files (x86)\Yarn\lib\cli.js:137008:13)
+      at Interface.emit (events.js:315:20)
+      at Interface._ttyWrite (readline.js:866:16)
+      at ReadStream.onkeypress (readline.js:205:10)
+      at ReadStream.emit (events.js:315:20)
+      at emitKeys (internal/readline/utils.js:335:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1133:36)
+      at ReadStream.emit (events.js:315:20)
+      at addChunk (_stream_readable.js:295:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
