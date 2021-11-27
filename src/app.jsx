@@ -1,5 +1,5 @@
 import './style/global.scss';
 
 export default function App() {
-  return <div>Hello world 3</div>;
+  return <h1>Manual configuration ( ReactJS, Babel, Webpack) </h1>;
 }
